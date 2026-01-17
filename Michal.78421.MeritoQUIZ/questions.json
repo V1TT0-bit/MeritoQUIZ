@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Quiz dla Informatyki",
+    "description": "Sprawdź swoją wiedzę z zakresu programowania, sprzętu i technologii.",
+    "iconName": "icon_quiz_cap",
+    "questions": [
+      {
+        "text": "Co oznacza skrót HTML?",
+        "answers": ["Hyper Text Markup Language", "High Tech Multi Level", "Home Tool Made Live", "Hyperlinks and Text Management"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "text": "Który język służy do stylizacji?",
+        "answers": ["Python", "HTML", "CSS", "Java"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "text": "Co to jest RAM?",
+        "answers": ["Pamięć trwała", "Pamięć operacyjna", "Procesor", "Karta graficzna"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "System Open-Source to:",
+        "answers": ["Windows", "macOS", "Linux", "iOS"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "text": "Natywny język iOS to:",
+        "answers": ["Java", "Kotlin", "Swift", "PHP"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "text": "Mózg komputera to:",
+        "answers": ["CPU", "PSU", "GPU", "SSD"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "text": "1 Bajt to ile bitów?",
+        "answers": ["4", "8", "16", "32"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "Standard złącza monitora:",
+        "answers": ["VGA", "HDMI", "PS/2", "LPT"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "Git to:",
+        "answers": ["System kontroli wersji", "Język", "Edytor", "System"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "text": "Protokół bezpiecznej strony:",
+        "answers": ["HTTP", "FTP", "HTTPS", "SSH"],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "title": "Wiedza ogólna o Merito",
+    "description": "Jak dobrze znasz swoją uczelnię? Historia i życie studenckie.",
+    "iconName": "icon_quiz_cap",
+    "questions": [
+      {
+        "text": "Poprzednia nazwa uczelni to:",
+        "answers": ["Wyższa Szkoła Bankowa", "Wyższa Szkoła Biznesu", "Politechnika", "Akademia"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "'Merito' oznacza:",
+        "answers": ["Sukces", "Korzyść/Zasługa", "Pieniądze", "Nauka"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "Kolor marki to:",
+        "answers": ["Czerwony", "Zielony", "Niebieski", "Żółty"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "text": "Merito stawia na:",
+        "answers": ["Teorię", "Praktykę", "Historię", "Pamięć"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "Platforma e-learningowa to:",
+        "answers": ["Moodle", "Teams", "Discord", "Skype"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "Gdzie są oceny?",
+        "answers": ["Tablica", "Extranet", "Biblioteka", "Facebook"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "Szef wydziału to:",
+        "answers": ["Rektor", "Kanclerz", "Dziekan", "Starosta"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "text": "Czy jest oddział w Gdańsku?",
+        "answers": ["Tak", "Nie", "Może", "W planach"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "text": "Strefa Studenta to:",
+        "answers": ["Bar", "Obsługa online", "Siłownia", "Akademik"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "text": "Studia dla pracujących:",
+        "answers": ["Stacjonarne", "Niestacjonarne", "Dzienne", "Nocne"],
+        "correctAnswerIndex": 1
+      }
+    ]
+  }
+]
